@@ -1,2 +1,5 @@
 # hello-world
-Exercise
+
+Hi Y'all!
+
+Martin here, I like to play guitar.
